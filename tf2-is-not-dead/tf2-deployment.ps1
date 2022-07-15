@@ -6,7 +6,7 @@
     $RG_location = 'westeurope'
     New-AzResourceGroup -name $RG_name -location $RG_location -force | Out-Null
     Write-Host "$(Get-Date) $RG_name successfully created." -ForegroundColor Green
-    $TemplateFile = "...\tf2.json" 
+    $TemplateFile = "...\tf2-template.json" 
     $ContainerInstanceName = "tf2-instance" 
     $ContainerName = "tf2-container" 
     $ContainerImage = "melkortf/tf2-competitive" 
