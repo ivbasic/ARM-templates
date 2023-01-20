@@ -10,12 +10,12 @@
     $ContainerInstanceName = "tf2-instance" 
     $ContainerName = "tf2-container" 
     $ContainerImage = "melkortf/tf2-competitive" 
-    $SERVER_HOSTNAME = "spejs.tf" 
+    $SERVER_HOSTNAME = "spejs" 
     $SERVER_PASSWORD = "test" 
     $RCON_PASSWORD = "rcon" 
-    #$LOGS_TF_APIKEY = "76561198000513793#9f770362cd920dd3"
+    #$LOGS_TF_APIKEY = "xxxxxxxxxxxxxxx"
     #$LOGS_TF_PREFIX = "testis" #$SERVER_HOSTNAME
-    #$DEMOS_TF_APIKEY = "yHMHquTqnkCCLvzXqLNwtXKqddAppyCEEhKdJnEbHeMwNiJsgu7rbV94Ai3fwF77"
+    #$DEMOS_TF_APIKEY = "xxxxxxxxxxxxxxxxxxxxxxxx"
 # user input end ----->
 
 
